@@ -17,7 +17,6 @@
   <img align="center" alt="Ionic" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
 </div>
 
 ##
